@@ -1,0 +1,14 @@
+C:\Users\kinjh\Desktop\Unity_C#\project_solo\project_solo\bin\Debug\net8.0\project_solo.exe
+C:\Users\kinjh\Desktop\Unity_C#\project_solo\project_solo\bin\Debug\net8.0\project_solo.deps.json
+C:\Users\kinjh\Desktop\Unity_C#\project_solo\project_solo\bin\Debug\net8.0\project_solo.runtimeconfig.json
+C:\Users\kinjh\Desktop\Unity_C#\project_solo\project_solo\bin\Debug\net8.0\project_solo.dll
+C:\Users\kinjh\Desktop\Unity_C#\project_solo\project_solo\bin\Debug\net8.0\project_solo.pdb
+C:\Users\kinjh\Desktop\Unity_C#\project_solo\project_solo\obj\Debug\net8.0\project_solo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kinjh\Desktop\Unity_C#\project_solo\project_solo\obj\Debug\net8.0\project_solo.AssemblyInfoInputs.cache
+C:\Users\kinjh\Desktop\Unity_C#\project_solo\project_solo\obj\Debug\net8.0\project_solo.AssemblyInfo.cs
+C:\Users\kinjh\Desktop\Unity_C#\project_solo\project_solo\obj\Debug\net8.0\project_solo.csproj.CoreCompileInputs.cache
+C:\Users\kinjh\Desktop\Unity_C#\project_solo\project_solo\obj\Debug\net8.0\project_solo.dll
+C:\Users\kinjh\Desktop\Unity_C#\project_solo\project_solo\obj\Debug\net8.0\refint\project_solo.dll
+C:\Users\kinjh\Desktop\Unity_C#\project_solo\project_solo\obj\Debug\net8.0\project_solo.pdb
+C:\Users\kinjh\Desktop\Unity_C#\project_solo\project_solo\obj\Debug\net8.0\project_solo.genruntimeconfig.cache
+C:\Users\kinjh\Desktop\Unity_C#\project_solo\project_solo\obj\Debug\net8.0\ref\project_solo.dll
